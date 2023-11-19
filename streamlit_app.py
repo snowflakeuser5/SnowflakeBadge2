@@ -1,4 +1,4 @@
-derimport streamlit
+import streamlit
 import pandas
 streamlit.title('My Mom&apos;s New Healthy Diner')
 streamlit.header('Breakfast Favourites')
